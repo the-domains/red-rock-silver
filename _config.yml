@@ -1,7 +1,7 @@
 name: Red Rock Silver
 favicon: null
-layout_spectrum: 0.7268854873254895
-typography_spectrum: 0.4052781816571951
+layout_spectrum: 1
+typography_spectrum: 0.81566
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#0a0b0d'
+    - '#cc2720'
+    - '#d9d9d9'
+    - '#404142'
+    - '#6c6d6e'
   brandStrength: 0.7641943397466093
   lightness: 0.16918890527449548
-  saturation: 0.5331390853971243
+  saturation: 1
   rhythmicContrast: 0.8737544158939272
 purpose: []
