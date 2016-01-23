@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Three strands of glossy pomegranate-colored garnet with touches of silver. Conveniently secured with a magnetic clasp. See a short demo clip of our magnetic clasps at https://youtu.be/JIyBiPAde-s  All metals are .925 sterling silver. Some of these garnet stones are natural (the flat, teardrop shaped ones) and the others were hand-cut, tumbled and faceted, and then dyed to enhance their rich merlot red color. Measures 8 inches (20 cm).  BR-GN-SS-0001'
-datePublished: '2016-01-23T16:46:55.603Z'
+datePublished: '2016-01-23T16:46:55.662Z'
 dateModified: '2016-01-23T16:45:43.391Z'
 title: Garnet Triple-Strand Bracelet
 author: []
